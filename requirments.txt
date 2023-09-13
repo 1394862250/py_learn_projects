@@ -1,0 +1,6 @@
+tensorflow_gpu==2.4.0
+numpy
+pillow
+pandas
+requests
+execjs
