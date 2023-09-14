@@ -1,0 +1,9 @@
+tensorflow_gpu==2.4.0
+numpy
+pillow
+pandas
+requests==2.31.0
+execjs==
+flask==2.3.3
+beautifulsoup4==4.12.2
+schedule
